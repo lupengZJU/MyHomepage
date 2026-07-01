@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: > <a href='https://person.zju.edu.cn/lupeng'>鲁鹏（官方主页）</a> 
-<p>Assistant Professor (PhD Supervisor), School of Software Technology, Zhejiang University, China</p>
-<p>Director, Institute of Computing Innovation, Zhejiang University</p>
+Assistant Professor (PhD Supervisor), School of Software Technology, Zhejiang University, China <br>
+Director, Institute of Computing Innovation, Zhejiang University <br>
 
 profile:
   align: right
